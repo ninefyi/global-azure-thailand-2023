@@ -1,2 +1,1 @@
-# global-az23
-Global Azure 2023 - Thailand
+https://github.com/azure-samples/todo-nodejs-mongo
