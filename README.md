@@ -2,14 +2,16 @@
 ## MongoDB Atlas, GitHub Codespace, Azure App Service, Azure Developer CLI
 ## Template [link](https://github.com/azure-samples/todo-nodejs-mongo)
 
-## Install the Azure Developer CLI
+## References
 - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd)
-- Run command `sudo curl -fsSL https://aka.ms/install-azd.sh | bash`
-- Run command `azd auth login`
-
-## Install the Azure CLI
 - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+
+## Install the Azure Developer and Azure CLI
+- Run command `sudo curl -fsSL https://aka.ms/install-azd.sh | bash`
 - Run command `sudo curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`
+
+## Signin the Azure and Azure Developer CLI
+- Run command `azd auth login`
 - Run command `az login --use-device-code`
 
 ## Initial template
